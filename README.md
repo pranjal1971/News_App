@@ -1,3 +1,3 @@
 # News_App
-News App using Api 
-Retrofit is used to call news app
+News App using Api.
+Retrofit is used to call Api 
